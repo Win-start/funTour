@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>有用</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-城市页改版-弹层" transform="translate(-384.000000, -2657.000000)" stroke="#41C074">
+            <g id="有用" transform="translate(384.000000, 2657.000000)">
+                <g id="Group-5" transform="translate(2.000000, 2.000000)">
+                    <path d="M4.5,6.34679595 L4.5,15.4978638 L12.9323746,15.4978638 C14.3155046,15.4978638 15.4286676,14.3803121 15.4202435,13.0012292 L15.3958186,9.002743 C15.387401,7.62474332 14.2533831,6.5 12.8676818,6.5 L9.16485368,6.5 L9.45731244,5.80586386 C9.73324568,5.15095023 9.86614763,4.34466369 9.81657791,3.36651103 C9.76581589,2.36483092 9.06704104,1.55519091 8.22681156,1.3661909 C7.43336094,1.18771325 6.84154939,1.62709337 6.73672723,2.72261369 C6.59235896,4.23143952 5.72252622,5.43428565 4.5,6.34679595 Z"
+                          id="Combined-Shape"></path>
+                    <rect id="Rectangle-2" x="0.5" y="6.5" width="4" height="9" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
