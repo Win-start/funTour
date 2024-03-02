@@ -42,7 +42,7 @@
 				<h5>{{CityText}}</h5>
 			</div>
 			<!-- 天气预报 -->
-			<!-- <Weather :value="CityVaule"></Weather> -->
+			<Weather :value="CityVaule"></Weather>
 		</div>
 		<!-- 导航栏 -->
 		<Nav></Nav>
